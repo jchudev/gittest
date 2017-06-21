@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 aaaaaaa
 bbbbbb
+=======
+aaa
+fasff
+>>>>>>> origin/master
